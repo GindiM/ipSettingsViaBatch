@@ -1,0 +1,1 @@
+netsh interface ip set address "int1" dhcp
